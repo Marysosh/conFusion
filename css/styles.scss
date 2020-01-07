@@ -76,25 +76,14 @@ body {
 }
 
 .modal-content {
-	background: $background-dark;
+	background-color: $background-dark;
+	color: floralwhite;
 
-	h4 {
-		color: floralwhite;
-	}
-
-	button {
-		color: floralwhite;
-	}
-
-	button:hover {
-		color: $background-pale;
+	.close {
+			color: floralwhite;
 	}
 }
 
 .modal-body {
 	background: $background-pale;
-
-	button {
-		color: floralwhite;
-	}
 }

@@ -53,15 +53,10 @@ body {
   bottom: 0px; }
 
 .modal-content {
-  background: #512DA8; }
-  .modal-content h4 {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-content .close {
     color: floralwhite; }
-  .modal-content button {
-    color: floralwhite; }
-  .modal-content button:hover {
-    color: #D1C4E9; }
 
 .modal-body {
   background: #D1C4E9; }
-  .modal-body button {
-    color: floralwhite; }
